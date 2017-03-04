@@ -1,7 +1,7 @@
 # AngularUploadFile
 ## API
 This is reference api
-(https://github.com/wutthinun/Spring-boot-upload-file-angular2)[spring-boot]
+[spring-boot](https://github.com/wutthinun/Spring-boot-upload-file-angular2)
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.21.
 
