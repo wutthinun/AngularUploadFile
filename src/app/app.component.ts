@@ -19,4 +19,5 @@ export class AppComponent {
   getRequest() {
     this.service.getRequest();
   }
+
 }
